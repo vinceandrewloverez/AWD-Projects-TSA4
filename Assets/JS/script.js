@@ -17,7 +17,7 @@ const restaurants = [
     name: "Toyo Eatery",
     overlayText: "<div class=\"ratings\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star-half\"></ion-icon></div>",
     image:
-      "https://scontent.fmnl2-2.fna.fbcdn.net/v/t39.30808-6/377498441_18355781164076137_8472951048395213503_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFVa9yNYIZ3LHW6eVlKxwqILzZfzKNemcUvNl_Mo16ZxYYT4qsiBryhuzAIjERrahC_RJFfDNpD-h34-QbKgbWD&_nc_ohc=mVqTMz4SRJEAX8pNx1a&_nc_ht=scontent.fmnl2-2.fna&oh=00_AfB_Mnrh8R68jzDQE4DC3N-yvy87GxV6zGNszXQZmih2nA&oe=65F92F21",
+      "https://www.willflyforfood.net/wp-content/uploads/2019/03/toyo-eatery15.jpg.webp",
     description:
       "With both à la carte and tasting options, Toyo Eatery presents Filipino ingredients in modern ways, playing with fermentation and preservation techniques to create the boldest flavours. The signature dish is a collection of 18 vegetables in a unique salad, named Bahay Kubo after a popular Tagalog children’s folk song. Other highlights include an adaptation of a popular street food pork barbecue dish, served three ways, and the Tortang Talong eggplant omelette with banana catsup.  ",
     address: "The Alley at Karrivin, Karrivin Plaza, Chino Roces Ext., Makati, Philippines",
@@ -31,7 +31,7 @@ const restaurants = [
   {
     name: "Hapag",
     overlayText: "<div class=\"ratings\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star-half\"></ion-icon></div>",
-    image: "https://scontent.fmnl2-2.fna.fbcdn.net/v/t39.30808-6/332495782_764533565057163_6601910158597569252_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF2s5CDWaahZVSJk-PKT310G1N6sP_sdGsbU3qw_-x0a4GIIaGCnzPmc0-9ATNG7IB8oXMWdEqf9nuZt-7M9Uwr&_nc_ohc=EELZyLq35YQAX_MAh19&_nc_ht=scontent.fmnl2-2.fna&oh=00_AfA7e2gmM6RM_F_BKKE8nmsJepXAg1qUEx_yOnSMdKrv2A&oe=65F9F112",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3bkSu4IlfI3rLupJJn8P7lHEZY9f2EWirxQU48cvLQ&s",
     description: "Hapag is the Filipino dining table; a low, short-legged table where Filipinos gather over their love for good food. For Chefs Nav and Thirdy, Hapag is built from the values that were instilled into them by their respective households—where meals are a sacred time for bonding with people who matter most. Hapag is where everyone can share stories about their day, bring joy and woes to the table, but still feel safe. A place where nothing else matters but this very moment every single day.",
     address: "201 Katipunan Avenue, Project 4, Quezon City",
     email: "hello@hapagmnl.com",
