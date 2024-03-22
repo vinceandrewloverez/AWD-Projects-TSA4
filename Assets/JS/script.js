@@ -17,7 +17,7 @@ const restaurants = [
     name: "Toyo Eatery",
     overlayText: "<div class=\"ratings\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star-half\"></ion-icon></div>",
     image:
-      "https://www.willflyforfood.net/wp-content/uploads/2019/03/toyo-eatery15.jpg.webp",
+      "Docs/toyo.jpg",
     description:
       "With both à la carte and tasting options, Toyo Eatery presents Filipino ingredients in modern ways, playing with fermentation and preservation techniques to create the boldest flavours. The signature dish is a collection of 18 vegetables in a unique salad, named Bahay Kubo after a popular Tagalog children’s folk song. Other highlights include an adaptation of a popular street food pork barbecue dish, served three ways, and the Tortang Talong eggplant omelette with banana catsup.  ",
     address: "The Alley at Karrivin, Karrivin Plaza, Chino Roces Ext., Makati, Philippines",
@@ -31,7 +31,7 @@ const restaurants = [
   {
     name: "Hapag",
     overlayText: "<div class=\"ratings\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star\"></ion-icon><ion-icon name=\"star-half\"></ion-icon></div>",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3bkSu4IlfI3rLupJJn8P7lHEZY9f2EWirxQU48cvLQ&s",
+    image: "Docs/hapagmnl.jpg",
     description: "Hapag is the Filipino dining table; a low, short-legged table where Filipinos gather over their love for good food. For Chefs Nav and Thirdy, Hapag is built from the values that were instilled into them by their respective households—where meals are a sacred time for bonding with people who matter most. Hapag is where everyone can share stories about their day, bring joy and woes to the table, but still feel safe. A place where nothing else matters but this very moment every single day.",
     address: "201 Katipunan Avenue, Project 4, Quezon City",
     email: "hello@hapagmnl.com",
